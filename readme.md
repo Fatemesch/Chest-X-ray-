@@ -1,6 +1,6 @@
 
 # Biomarker Prediction from OCT and Clinical Data
-![Pipeline Overview](figures/main_arch.png)
+![Pipeline Overview](main_arch.png)
 *Overview of the biomarker prediction pipeline, showing OCT-only and fusion modes with auxilary reconstruction branch*
 
 A modular, PyTorch-based pipeline for multi-label biomarker detection from medical images (OCT) and clinical data, supporting:
